@@ -91,7 +91,3 @@ Then open **http://localhost:8501** in your browser.
 - The **Hertzsprung–Russell diagram** clearly separates Brown/Red Dwarfs, Main Sequence, and Giants.
 - Temperature has a **positive Pearson correlation (r = 0.44)** with Log Luminosity, statistically significant (p < 1e-12).
 - Luminosity and Radius are **right-skewed** (skew > 1.9) — log transformation was applied for analysis.
-
----
-
-*Generated as part of BCSE331P – Exploratory Data Analysis, VIT University*
