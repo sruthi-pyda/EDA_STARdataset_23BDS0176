@@ -35,18 +35,9 @@
 .
 ├── 23BDS0176_EDADATASET.csv          # Dataset
 ├── EDA_Project_23BDS0176.ipynb       # Main project notebook (149 cells)
+├── EDA_Project_23BDS0176.pdf         # PDF export of the notebook
 ├── demo_23BDS0176.py                 # Standalone demo script — saves 28 plots
-├── dashboard_23BDS0176.py            # Interactive Streamlit dashboard
-├── vit_logo.png                      # VIT logo (used in dashboard sidebar)
-├── Exploratory Data Analysis Lab QP 1.pdf   # Assessment 1 – Merging & Transformations
-├── Exploratory Data Analysis Lab QP 2.pdf   # Assessment 2
-├── Exploratory Data Analysis Lab QP 3.pdf   # Assessment 3
-├── Exploratory Data Analysis Lab QP 4.pdf   # Assessment 4
-├── Exploratory Data Analysis Lab QP 5.pdf   # Assessment 5
-├── Exploratory Data Analysis Lab QP 6.pdf   # Assessment 6
-├── Exploratory Data Analysis Lab QP 7.pdf   # Assessment 7
-├── Exploratory Data Analysis Lab QP 8.pdf   # Assessment 8
-└── Exploratory Data Analysis Lab QP 9.pdf   # Assessment 9 – PCA
+└── dashboard_23BDS0176.py            # Interactive Streamlit dashboard
 ```
 
 ---
