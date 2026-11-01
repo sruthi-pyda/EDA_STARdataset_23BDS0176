@@ -1,0 +1,22 @@
+# Generated outputs
+demo_output/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# R artifacts
+.RData
+.Rhistory
+
+# Claude settings
+.claude/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Large HTML export (notebook already included)
+EDA_Project_23BDS0176.html
